@@ -27,10 +27,6 @@ This repository provides open, fully reproducible programmatic workflows for:
 ├── Supplementary_Data_Table_S2_Ecuador_Nodes_GBIF.csv # 8 Ecuadorian biobank nodes (holdings + GBIF UUIDs)
 ├── Supplementary_Data_Table_S3_IUCN_GBIF_key.csv # Methodological data dictionary & API query key
 ├── 2020_1_RL_Stats_Table_5.pdf                   # Official historical IUCN 2020-1 Table 5 reference document
-├── Figure1_Latin_America_Biobanking_Paradox_Bubble.png / .pdf # Figure 1 (300 DPI PNG & vector PDF)
-├── Figure2_Latin_America_Threat_vs_Stewardship_Bars.png / .pdf # Figure 2 (300 DPI PNG & vector PDF)
-├── Figure3_Ecuador_Biobank_Complementarity_Matrix.png / .pdf   # Figure 3 (300 DPI PNG & vector PDF)
-├── Figure4_Ecuador_Biobank_Quantitative_Holdings.png / .pdf    # Figure 4 (300 DPI PNG & vector PDF)
 └── README.md                                     # This documentation file
 ```
 
