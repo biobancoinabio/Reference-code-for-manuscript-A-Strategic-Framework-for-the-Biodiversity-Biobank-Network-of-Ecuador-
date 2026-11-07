@@ -1,0 +1,9 @@
+node_id,institution_name,reported_physical_holdings,gbif_published_records,gbif_publishing_org_uuids,associated_national_portal_uuid,annotation
+INABIO,Instituto Nacional de Biodiversidad (INABIO),500800,6184,9cf743f8-3a4d-42df-9d1a-fd9cbcc3508f,c54097e6-0972-4acb-b849-eaeba29c917d,"~500,000 specimens + 800+ genetic acc. (6,184 in GBIF; +140.4k via MAE/BNDB)"
+INIAP,Instituto Nacional de Investigaciones Agropecuarias (INIAP),29000,302,2412cc1f-760b-4f0c-9bfd-bd88664c61c4,,"29,000+ crop germplasm accessions (302 in GBIF; indexed in Crop Trust BOLD)"
+UTPL,Universidad Técnica Particular de Loja (Herbario HUTPL + Museo de Zoología MUTPL),30900,24859,d0e01e0c-7e8c-49aa-aeed-15fab7dfee46;9fff025a-f223-4b26-8ee1-2266b219934f,,"~30,900 specimens (18.3k HUTPL; 12.6k MUTPL) (24,859 digitized records in GBIF [80.5%])"
+GSC-USFQ,Galapagos Science Center / Universidad San Francisco de Quito (USFQ),1460,10699,4aaf1825-3ebd-4943-87a3-f67552d468f1,,"1,460+ insular biobank samples (10,699 institutional records in GBIF)"
+ESPE,Universidad de las Fuerzas Armadas - ESPE,1000,0,dd7caa10-47d9-41e2-aef9-3a62f65ade78,,"~1,000 high-Andean seed accessions (0 in GBIF — Pillar 2 federation target)"
+CENAIM-ESPOL,Centro Nacional de Acuicultura e Investigaciones Marinas / ESPOL,143,1472,958c58fe-5e75-4b7e-80c8-9bdde412f863,,"143 REMAPE species + microbial/metabolite lib. (1,472 marine records in GBIF)"
+Yachay Tech,Universidad de Investigación de Tecnología Experimental Yachay,0,0,,,150-ha botanical garden + seed/tissue/DNA bank (Accession baseline & BNDB link in progress)
+Ikiam,Universidad Regional Amazónica Ikiam,0,0,0c5cc67a-87d1-461a-beed-bc3bfb557287,,"Amazonian plant, fungal & microbial biobank (Accession baseline & BNDB link in progress)"
