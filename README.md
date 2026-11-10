@@ -23,9 +23,9 @@ This repository provides open, fully reproducible programmatic workflows for:
 
 ```
 ├── Supplementary_Code_S1_Generate_Figures.py     # Main Python reproduction engine (APIs + figure generator)
-├── Supplementary_Data_Table_S1.csv               # 11-country dataset (IUCN 2026-1/2020-1 + GBIF stewardship)
-├── Supplementary_Data_Table_S2_Ecuador_Nodes_GBIF.csv # 8 Ecuadorian biobank nodes (holdings + GBIF UUIDs)
-├── Supplementary_Data_Table_S3_IUCN_GBIF_key.csv # Methodological data dictionary & API query key
+├── Supplementary_Table_S1.csv               # 11-country dataset (IUCN 2026-1/2020-1 + GBIF stewardship)
+├── Supplementary_Table_S2_Ecuador_Nodes_GBIF.csv # 8 Ecuadorian biobank nodes (holdings + GBIF UUIDs)
+├── Supplementary_Table_S3_IUCN_GBIF_key.csv # Methodological data dictionary & API query key
 ├── 2020_1_RL_Stats_Table_5.pdf                   # Official historical IUCN 2020-1 Table 5 reference document
 └── README.md                                     # This documentation file
 ```
@@ -35,9 +35,9 @@ This repository provides open, fully reproducible programmatic workflows for:
 | File | Description |
 | :--- | :--- |
 | **`Supplementary_Code_S1_Generate_Figures.py`** | Standalone Python script that queries the live GBIF REST API and IUCN Red List API v4, exports Supplementary Tables S1 and S2, and deterministically generates Figures 1–4. |
-| **`Supplementary_Data_Table_S1.csv`** | Empirical dataset across 11 Latin American countries (`CO`, `BR`, `EC`, `MX`, `PE`, `VE`, `AR`, `CR`, `CL`, `CU`, `UY`) reporting land area, comprehensively assessed vertebrates (`M+B+A`), partially assessed groups (plants, fishes, reptiles, inverts, fungi), threat categories (`CR`, `EN`, `VU`), threat densities, and GBIF specimen/sample stewardship metrics. |
-| **`Supplementary_Data_Table_S2_Ecuador_Nodes_GBIF.csv`** | Institutional baseline for the 8 network nodes (INABIO, INIAP, UTPL, GSC-USFQ, ESPE, CENAIM-ESPOL, Yachay Tech, Ikiam), detailing physical holdings, official GBIF publishing organization UUIDs, and live published occurrence counts. |
-| **`Supplementary_Data_Table_S3_IUCN_GBIF_key.csv`** | Comprehensive data dictionary defining every variable across Tables S1 and S2, with exact API endpoints, JSON response paths, mathematical formulas for derived indicators (`dom_spec_pct`, `dom_combined_pct`), and validation rules. |
+| **`Supplementary_Table_S1.csv`** | Empirical dataset across 11 Latin American countries (`CO`, `BR`, `EC`, `MX`, `PE`, `VE`, `AR`, `CR`, `CL`, `CU`, `UY`) reporting land area, comprehensively assessed vertebrates (`M+B+A`), partially assessed groups (plants, fishes, reptiles, inverts, fungi), threat categories (`CR`, `EN`, `VU`), threat densities, and GBIF specimen/sample stewardship metrics. |
+| **`Supplementary_Table_S2_.csv`** | Institutional baseline for the 8 network nodes (INABIO, INIAP, UTPL, GSC-USFQ, ESPE, CENAIM-ESPOL, Yachay Tech, Ikiam), detailing physical holdings, official GBIF publishing organization UUIDs, and live published occurrence counts. |
+| **`Supplementary_Table_S3.csv`** | Comprehensive data dictionary defining every variable across Tables S1 and S2, with exact API endpoints, JSON response paths, mathematical formulas for derived indicators (`dom_spec_pct`, `dom_combined_pct`), and validation rules. |
 
 ---
 
